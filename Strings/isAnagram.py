@@ -34,5 +34,3 @@ class Solution:
 				Y_table[Y[i]] = 1
 				
 		return X_table == Y_table
-				
-
